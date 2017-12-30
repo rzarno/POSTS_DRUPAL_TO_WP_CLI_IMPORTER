@@ -1,4 +1,5 @@
-# POSTS_DRUPAL_TO_WP_CLI_IMPORTER
+# Import posts from drupal to wordpress 
+POSTS_DRUPAL_TO_WP_CLI_IMPORTER
 this script was implemented to import posts and their categories from Drupal 7 to wordpress 4.8
 categories in drupal were stored by taxonomy module
 you can put it inside your wordpress directory and run from command line (php import_posts_drupal_to_wordpress_cli.php)
